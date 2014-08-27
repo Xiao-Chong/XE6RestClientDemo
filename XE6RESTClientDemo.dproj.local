@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/06/23 20:53:24.000.540,=\\vmware-host\Shared Folders\文件\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/08/27 09:08:43.000.724,=\\vmware-host\Shared Folders\文件\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/08/27 09:35:31.000.760,\\vmware-host\Shared Folders\文件\Embarcadero\Studio\Projects\Unit1.pas=\\vmware-host\Shared Folders\桌面\XE6RestClientDemo\Unit1.pas</Transaction>
+    <Transaction>2014/08/27 09:35:31.000.760,\\vmware-host\Shared Folders\文件\Embarcadero\Studio\Projects\Unit1.fmx=\\vmware-host\Shared Folders\桌面\XE6RestClientDemo\Unit1.fmx</Transaction>
+    <Transaction>2014/08/27 09:35:40.000.223,\\vmware-host\Shared Folders\文件\Embarcadero\Studio\Projects\Project1.dproj=\\vmware-host\Shared Folders\桌面\XE6RestClientDemo\XE6RESTClientDemo.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
